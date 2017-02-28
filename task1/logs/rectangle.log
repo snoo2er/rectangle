@@ -1,0 +1,248 @@
+09:00:24.739 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 4 | wrong data on line, 1
+09:00:24.753 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 2
+09:00:24.754 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+09:00:24.754 | [main] | FATAL | by.hryshchanka.task1.parser.RectangleParser - all data is wrong
+09:00:24.755 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 4 | wrong data on line, 2
+09:00:24.756 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 1
+09:00:24.756 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+09:25:37.877 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 4 | wrong data on line, 1
+09:25:37.882 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 2
+09:25:37.884 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+09:25:37.885 | [main] | FATAL | by.hryshchanka.task1.parser.RectangleParser - all data is wrong
+09:25:37.889 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 4 | wrong data on line, 2
+09:25:37.890 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 1
+09:25:37.893 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+09:38:52.750 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+09:38:52.756 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+09:38:52.757 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+09:40:19.332 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+09:40:19.336 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+09:40:19.336 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+10:29:47.315 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+10:29:47.344 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+10:29:47.345 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+10:30:15.837 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+10:30:15.867 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+10:30:15.868 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+10:31:05.894 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+10:31:05.899 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+10:31:05.899 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+12:13:47.091 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+12:13:47.100 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+12:13:47.101 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+12:34:57.036 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+12:34:57.043 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+12:34:57.044 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+12:35:03.883 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+12:35:03.888 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+12:35:03.889 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+12:44:41.039 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+12:44:41.046 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+12:44:41.046 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+12:46:43.116 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+12:46:43.120 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+12:46:43.121 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+12:47:39.419 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+12:47:39.424 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+12:47:39.424 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+12:48:42.066 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+12:48:42.076 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+12:48:42.076 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+13:13:12.591 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+13:13:12.595 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+13:13:12.595 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+13:15:10.470 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+13:15:10.496 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+13:15:10.496 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+13:15:10.538 | [main] | WARN  | by.hryshchanka.task1.inputOutput.FigureWriter - java.io.FileNotFoundException: data\output.txt (Процесс не может получить доступ к файлу, так как этот файл занят другим процессом) | write error
+13:15:10.543 | [main] | WARN  | by.hryshchanka.task1.inputOutput.FigureWriter - java.io.FileNotFoundException: data\output.txt (Процесс не может получить доступ к файлу, так как этот файл занят другим процессом) | write error
+13:17:24.754 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "5 0 0 5 -5 0 0 -5" | wrong data on line, 1
+13:17:24.759 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "8 0 0 0 8 10 0 10" | wrong data on line, 2
+13:17:24.760 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg -8 5 4 -6 4 8 9" | wrong data on line, 3
+13:17:24.760 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "5 0 6 9 7 1 2" | wrong data on line, 4
+13:17:24.761 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "12 0 0 0 12 10 0e 10" | wrong data on line, 5
+13:17:24.761 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "12 -3 0 -3 12 10 0 7" | wrong data on line, 6
+13:17:24.761 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "12 0 -6 0 12 10 -6 10" | wrong data on line, 7
+13:17:24.762 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "12 0 0 0 12 5 0 5" | wrong data on line, 8
+13:17:24.762 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "250 -5 250 112 -63 112 -63 -5" | wrong data on line, 9
+13:17:24.762 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "17 6 -5 6 6 17 6 -5" | wrong data on line, 10
+13:17:24.764 | [main] | FATAL | by.hryshchanka.task1.parser.RectangleParser - all data is wrong
+13:17:43.284 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+13:17:43.288 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+13:17:43.288 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+13:17:43.326 | [main] | WARN  | by.hryshchanka.task1.inputOutput.FigureWriter - java.io.FileNotFoundException: data\output.txt (Процесс не может получить доступ к файлу, так как этот файл занят другим процессом) | write error
+13:17:43.330 | [main] | WARN  | by.hryshchanka.task1.inputOutput.FigureWriter - java.io.FileNotFoundException: data\output.txt (Процесс не может получить доступ к файлу, так как этот файл занят другим процессом) | write error
+13:36:26.290 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+13:36:26.295 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+13:36:26.297 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+13:36:26.335 | [main] | WARN  | by.hryshchanka.task1.inputOutput.FigureWriter - java.io.FileNotFoundException: data\output.txt (Процесс не может получить доступ к файлу, так как этот файл занят другим процессом) | write error
+13:36:26.338 | [main] | WARN  | by.hryshchanka.task1.inputOutput.FigureWriter - java.io.FileNotFoundException: data\output.txt (Процесс не может получить доступ к файлу, так как этот файл занят другим процессом) | write error
+13:38:58.412 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+13:40:22.774 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+13:40:22.778 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 7 | wrong data on line, 4
+13:40:22.779 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+13:40:22.818 | [main] | WARN  | by.hryshchanka.task1.inputOutput.FigureWriter - java.io.FileNotFoundException: data\output.txt (Процесс не может получить доступ к файлу, так как этот файл занят другим процессом) | write error
+13:40:22.822 | [main] | WARN  | by.hryshchanka.task1.inputOutput.FigureWriter - java.io.FileNotFoundException: data\output.txt (Процесс не может получить доступ к файлу, так как этот файл занят другим процессом) | write error
+13:43:42.825 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+13:43:42.830 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "tt" | wrong data on line, 4
+13:43:42.831 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+14:17:36.201 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+14:17:36.211 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 5 | wrong data on line, 4
+14:17:36.212 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+14:18:05.239 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+14:18:05.243 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 5 | wrong data on line, 4
+14:18:05.244 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+14:22:17.277 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+14:22:17.281 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 5 | wrong data on line, 4
+14:22:17.282 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+14:22:17.294 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:00:09.987 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:00:09.992 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:01:50.423 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:01:50.428 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:04:45.029 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:04:45.034 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:12:21.875 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:12:21.879 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:13:11.289 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:13:11.294 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:15:00.909 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:15:00.914 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:15:45.428 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:15:45.433 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:16:13.468 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:16:13.476 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:17:20.741 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:17:20.747 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:20:19.259 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:20:19.264 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:20:40.897 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:20:40.900 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:33:54.863 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:33:54.869 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:35:08.170 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 4 | wrong data on line, 1
+15:35:08.177 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 2
+15:35:08.178 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+15:35:08.179 | [main] | FATAL | by.hryshchanka.task1.parser.RectangleParser - all data is wrong
+15:35:08.188 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 4 | wrong data on line, 2
+15:35:08.190 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 1
+15:35:08.191 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+15:35:08.199 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:35:08.200 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:54:14.178 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 4 | wrong data on line, 1
+15:54:14.184 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 2
+15:54:14.184 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+15:54:14.185 | [main] | FATAL | by.hryshchanka.task1.parser.RectangleParser - all data is wrong
+15:54:14.187 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 4 | wrong data on line, 2
+15:54:14.188 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 1
+15:54:14.189 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+15:54:14.197 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:54:14.197 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+15:56:31 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 4 | wrong data on line, 1
+15:56:31 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 2
+15:56:31 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+15:56:31 | [main] | FATAL | by.hryshchanka.task1.parser.RectangleParser - all data is wrong
+15:56:31 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 4 | wrong data on line, 2
+15:56:31 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 1
+15:56:31 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+15:56:31 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+15:56:31 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+22:33:23 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+22:33:23 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.ArrayIndexOutOfBoundsException: 5 | wrong data on line, 4
+22:33:23 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+22:33:23 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+22:53:34 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+22:53:34 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 4
+22:57:56 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+22:57:56 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 4
+22:57:56 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+22:57:56 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+22:58:15 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+22:58:15 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 4
+22:58:15 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+22:58:15 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+23:07:02 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 1
+23:07:02 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 2
+23:07:02 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+23:07:02 | [main] | FATAL | by.hryshchanka.task1.parser.RectangleParser - all data is wrong
+23:07:02 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 2
+23:07:02 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 1
+23:07:02 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+23:07:02 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+23:07:02 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+23:10:01 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 2
+23:10:01 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 1
+23:10:01 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 2
+23:10:01 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+23:10:01 | [main] | FATAL | by.hryshchanka.task1.parser.RectangleParser - all data is wrong
+23:10:01 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 1
+23:10:01 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+23:11:26 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 2
+23:11:26 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 3
+23:11:26 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 1
+23:11:26 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 2
+23:11:26 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+23:11:26 | [main] | FATAL | by.hryshchanka.task1.parser.RectangleParser - all data is wrong
+23:11:26 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 1
+23:11:26 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+23:12:52 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 2
+23:12:52 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 3
+23:12:52 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 1
+23:12:52 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 2
+23:12:52 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+23:12:52 | [main] | FATAL | by.hryshchanka.task1.parser.RectangleParser - all data is wrong
+23:12:52 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 1
+23:12:52 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+23:16:36 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 2
+23:16:36 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 3
+23:16:36 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 1
+23:16:36 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 2
+23:16:36 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+23:16:36 | [main] | FATAL | by.hryshchanka.task1.parser.RectangleParser - all data is wrong
+23:16:36 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 1
+23:16:36 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "o" | wrong data on line, 3
+23:16:36 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=0, y=0), point2(x=0, y=5), point3(x=-5, y=0), point 4(x=0, y=-5)]
+not a rectangle
+23:16:36 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
+23:16:50 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "-9gg" | wrong data on line, 3
+23:16:50 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - by.hryshchanka.task1.exception.RectanglePointQuantityException | wrong point quantity on line, 4
+23:16:50 | [main] | WARN  | by.hryshchanka.task1.parser.RectangleParser - java.lang.NumberFormatException: For input string: "0e" | wrong data on line, 5
+23:16:50 | [main] | WARN  | by.hryshchanka.task1.action.RectangleListCreator - Rectangle 0 - [point1(x=12, y=-3), point2(x=0, y=-3), point3(x=12, y=10), point 4(x=0, y=7)]
+not a rectangle
